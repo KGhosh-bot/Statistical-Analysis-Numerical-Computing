@@ -32,7 +32,6 @@ Analyzing the robustness of direct solvers for the system $Ax = b$.
 ## 🛠️ Tech Stack
 - **Languages:** Python
 - **Libraries:** NumPy, SciPy (Linear Algebra), Matplotlib, Plotly (Interactive Visualizations)
-- **Environments:** Jupyter Notebooks, Slurm-managed GPU Clusters
 
 ---
 *Developed by Kankana Ghosh as part of an Advanced AI & Statistical Modeling curriculum.*
